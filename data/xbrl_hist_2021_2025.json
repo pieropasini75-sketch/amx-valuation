@@ -1,0 +1,380 @@
+{
+ "Revenue": [
+  830687.452,
+  844501.397,
+  816012.844,
+  869220.584,
+  943638.406
+ ],
+ "RevenueFromRenderingOfServices": [
+  694300.431,
+  712985.548,
+  689154.325,
+  741858.822,
+  803655.32
+ ],
+ "RevenueFromSaleOfTelecommunicationEquipment": [
+  136387.021,
+  131515.849,
+  126858.519,
+  127361.762,
+  139983.086
+ ],
+ "CostOfSales": [
+  328510.002,
+  330532.45,
+  316476.14,
+  331177.822,
+  357637.156
+ ],
+ "SellingGeneralAndAdministrativeExpense": [
+  173579.745,
+  179454.03,
+  173001.297,
+  186515.841,
+  207011.427
+ ],
+ "OtherExpenseByFunction": [
+  4738.463,
+  5010.379,
+  6965.828,
+  7298.47,
+  6781.152
+ ],
+ "DepreciationAndAmortisationExpense": [
+  156302.992,
+  158633.786,
+  151786.064,
+  164128.361,
+  180804.783
+ ],
+ "ProfitLossFromOperatingActivities": [
+  167556.25,
+  170870.752,
+  167783.515,
+  180100.09,
+  191403.888
+ ],
+ "InterestExpense": [
+  35738.305,
+  41258.803,
+  44545.241,
+  56019.754,
+  60318.857
+ ],
+ "RevenueFromInterest": [
+  3834.15,
+  4823.579,
+  9628.34,
+  9008.22,
+  9127.487
+ ],
+ "FinanceIncomeCost": [
+  null,
+  -19116.219,
+  -26814.668,
+  5618.84,
+  -18306.262
+ ],
+ "ProfitLossBeforeTax": [
+  104807.649,
+  134269.499,
+  115333.645,
+  62829.909,
+  141987.236
+ ],
+ "IncomeTaxExpenseContinuingOperations": [
+  32717.477,
+  46044.089,
+  34544.003,
+  35238.443,
+  53870.189
+ ],
+ "ShareOfProfitLossOfAssociatesAccountedForUsingEquityMethod": [
+  113.918,
+  -1811.432,
+  -5371.824,
+  -5179.112,
+  294.235
+ ],
+ "ProfitLoss": [
+  196326.114,
+  81506.395,
+  80789.642,
+  27591.466,
+  88117.047
+ ],
+ "ProfitLossAttributableToNoncontrollingInterests": [
+  3902.947,
+  5347.004,
+  4679.025,
+  4689.441,
+  5297.965
+ ],
+ "ProfitLossAttributableToOwnersOfParent": [
+  192423.167,
+  76159.391,
+  76110.617,
+  22902.025,
+  82819.082
+ ],
+ "CashAndCashEquivalents": [
+  38679.891,
+  33700.949,
+  26597.773,
+  36652.098,
+  34954.355
+ ],
+ "TradeAndOtherCurrentReceivables": [
+  202846.597,
+  199424.202,
+  206802.15,
+  221122.253,
+  241381.386
+ ],
+ "Inventories": [
+  24185.31,
+  23995.133,
+  19271.625,
+  23751.457,
+  28306.625
+ ],
+ "CurrentAssets": [
+  404156.669,
+  361003.71,
+  340166.988,
+  353697.833,
+  365120.414
+ ],
+ "PropertyPlantAndEquipment": [
+  731196.679,
+  657226.21,
+  628650.904,
+  713784.429,
+  687263.062
+ ],
+ "RightofuseAssets": [
+  90372.393,
+  121874.096,
+  113568.32,
+  199460.378,
+  197543.872
+ ],
+ "Goodwill": [
+  136578.194,
+  141121.365,
+  146078.897,
+  156836.369,
+  157453.175
+ ],
+ "IntangibleAssetsOtherThanGoodwill": [
+  143225.764,
+  128893.422,
+  121498.519,
+  141736.581,
+  139248.894
+ ],
+ "Assets": [
+  1689649.849,
+  1618099.344,
+  1564185.96,
+  1793920.957,
+  1799615.605
+ ],
+ "CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings": [
+  145222.672,
+  102024.414,
+  160963.603,
+  104210.738,
+  91973.001
+ ],
+ "LongtermBorrowings": [
+  418807.43,
+  408565.066,
+  339713.449,
+  463374.893,
+  432933.859
+ ],
+ "Borrowings": [
+  564030.102,
+  510589.48,
+  500677.052,
+  567585.631,
+  524906.86
+ ],
+ "CurrentLeaseLiabilities": [
+  27632.357,
+  32902.237,
+  24375.01,
+  35436.851,
+  35866.709
+ ],
+ "NoncurrentLeaseLiabilities": [
+  71021.868,
+  101246.574,
+  100794.146,
+  177666.377,
+  178242.224
+ ],
+ "LeaseLiabilities": [
+  98654.225,
+  134148.811,
+  125169.156,
+  213103.228,
+  214108.933
+ ],
+ "TradeAndOtherCurrentPayables": [
+  206487.681,
+  174472.769,
+  162097.416,
+  166924.134,
+  167124.791
+ ],
+ "CurrentLiabilities": [
+  534012.766,
+  488876.954,
+  524406.537,
+  494400.877,
+  495191.07
+ ],
+ "NoncurrentLiabilities": [
+  701595.357,
+  691393.117,
+  618077.041,
+  867335.759,
+  876752.161
+ ],
+ "Liabilities": [
+  1235608.123,
+  1180270.071,
+  1142483.578,
+  1361736.636,
+  1371943.231
+ ],
+ "EquityAttributableToOwnersOfParent": [
+  389634.927,
+  373804.704,
+  366712.545,
+  369085.35,
+  362070.263
+ ],
+ "NoncontrollingInterests": [
+  64406.799,
+  64024.569,
+  54989.837,
+  63098.971,
+  65602.111
+ ],
+ "Equity": [
+  454041.726,
+  437829.273,
+  421702.382,
+  432184.321,
+  427672.374
+ ],
+ "EquityAndLiabilities": [
+  1689649.849,
+  1618099.344,
+  1564185.96,
+  1793920.957,
+  1799615.605
+ ],
+ "CashFlowsFromUsedInOperatingActivities": [
+  258181.638,
+  225287.031,
+  248092.195,
+  239341.121,
+  272399.022
+ ],
+ "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities": [
+  140789.643,
+  146192.426,
+  131101.509,
+  113083.319,
+  114431.308
+ ],
+ "PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities": [
+  12202.142,
+  11661.53,
+  25237.297,
+  17751.708,
+  16386.132
+ ],
+ "CashFlowsFromUsedInInvestingActivities": [
+  -76520.944,
+  -152359.04,
+  -164989.416,
+  -129235.804,
+  -122900.269
+ ],
+ "CashFlowsFromUsedInFinancingActivities": [
+  -177366.249,
+  -73348.287,
+  -84947.168,
+  -103121.821,
+  -148141.093
+ ],
+ "IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges": [
+  4294.445,
+  -420.296,
+  -1844.389,
+  6983.496,
+  1357.66
+ ],
+ "EffectOfExchangeRateChangesOnCashAndCashEquivalents": [
+  -1532.461,
+  -4558.646,
+  -5258.787,
+  3070.829,
+  -3055.403
+ ],
+ "DividendsPaidClassifiedAsFinancingActivities": [
+  27829.345,
+  29534.053,
+  30466.636,
+  31007.121,
+  33159.586
+ ],
+ "PurchaseOfTreasuryShares": [
+  36761.029,
+  26201.317,
+  14323.067,
+  22740.293,
+  11944.156
+ ],
+ "PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities": [
+  30544.75,
+  33823.287,
+  39498.197,
+  45285.61,
+  51585.889
+ ],
+ "InterestPaidClassifiedAsFinancingActivities": [
+  23884.41,
+  26882.181,
+  29031.855,
+  31082.117,
+  32325.287
+ ],
+ "IncomeTaxesPaidClassifiedAsOperatingActivities": [
+  60535.903,
+  62015.057,
+  49466.056,
+  48089.0,
+  53199.386
+ ],
+ "ProceedsFromBorrowingsClassifiedAsFinancingActivities": [
+  null,
+  188414.369,
+  249380.436,
+  262041.021,
+  238903.497
+ ],
+ "RepaymentsOfBorrowingsClassifiedAsFinancingActivities": [
+  152029.408,
+  145340.377,
+  214735.61,
+  232731.277,
+  257291.962
+ ]
+}

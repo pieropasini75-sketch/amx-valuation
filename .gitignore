@@ -1,0 +1,19 @@
+# --- Sistema / Python ---
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# --- Archivos temporales de Excel / LibreOffice (NO ignora el modelo .xlsx) ---
+~$*.xlsx
+.~lock*
+
+# --- Notas y guías personales (no se publican) ---
+personal/
+
+# --- Instrucciones para agentes de IA (no se publican) ---
+CLAUDE.md
+AGENTS.md
+agent.md
+agents.md
+.claude/

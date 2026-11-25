@@ -1,0 +1,8 @@
+Hard-code audit of AMX_Valuation_Model.xlsx
+Sheets scanned: Drivers, Projections, WACC, DCF, Sensitivity, Comps, Cover
+Formulas scanned: 2421
+Formulas containing numeric literals other than 0/1: 0
+
+None.
+
+Not scanned: Inputs (assumptions live there by design), Historicals (reported data), Checks (tolerances such as 0.5 are test thresholds, not model logic).
